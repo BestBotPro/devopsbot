@@ -1,0 +1,8 @@
+supervisor
+requests
+python-telegram-bot
+python-telegram-bot[job-queue]
+python-dotenv
+pip==24.0
+paramiko
+psycopg2-binary==2.9.5
